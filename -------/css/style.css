@@ -1,0 +1,38 @@
+.header-site {
+    background-image: url(../img/img-09.jpg);
+    background-position: center top; //começa no topo do site
+    background-repeat: no-repeat; //para a imagem não repetir
+    background-size: cover; //para imagem cobrir toda a tela
+    background-attachment: fixed;
+    color: white;
+    padding-top: 300px;
+    padding-bottom: 300px;
+       
+}
+
+.content-site {
+    
+    padding-top: 200px;
+    padding-bottom: 200px;
+}
+
+.img-divisao-site {
+    background-image: url(../img/img-03.jpeg);
+    background-position: center top;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    padding-top: 200px;
+    padding-bottom: 200px;
+    color: white;
+    
+    
+}
+
+.footer {
+    background-color: cadetblue;
+    color: aliceblue;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    
+}
